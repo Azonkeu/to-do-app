@@ -20,10 +20,10 @@ In this project, I will build a simple To-Do-App. The app will have 3 sections:
 
 - Create the react app 
   `npx create-react-app .`
-- Set up the [linters]()
+- Set up the [linters](https://github.com/microverseinc/linters-config)
  
 
-## Built With
+## 🔧Built With
 
 *Major languages:* 
 -  **Html5**
@@ -36,18 +36,19 @@ In this project, I will build a simple To-Do-App. The app will have 3 sections:
   
 *Technologies used:* 
 
-- Github
-- Git 
-- Vscode
+- **Github**
+- **Git** 
+- **Vscode**
 
-## Demo
+## 🖥 Demo
 Check out the [live version](https://Azonkeu.github.io/to-do-app/) of the website for more details.
 
-## Screenshots
+### Screenshots
 
 ![image](https://www.linkpicture.com/q/todos.png)
 
  ## 👩 Author
+
   - Github: [Azonkeu](https://github.com/Azonkeu)
   - LinkedIn: [Azonkeu Ornela](https://www.linkedin.com/in/azonkeu-ornela-88a14b172/)
 
