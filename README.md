@@ -41,7 +41,7 @@ In this project, I will build a simple To-Do-App. The app will have 3 sections:
 - Vscode
 
 ## Demo
-Check out the [live version](https://Azonkeu.github.io/math-magicians/) of the website for more details.
+Check out the [live version](https://Azonkeu.github.io/to-do-app/) of the website for more details.
 
 ## Screenshots
 
@@ -57,4 +57,4 @@ Check out the [live version](https://Azonkeu.github.io/math-magicians/) of the w
 
  ## 📝 License
 
- This project is [MIT](https://github.com/Azonkeu/To-Do-List/blob/main/LICENSE) licensed.
+ This project is [MIT](https://github.com/Azonkeu/to-do-app/blob/main/LICENSE) licensed.
